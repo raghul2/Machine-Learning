@@ -1,0 +1,5 @@
+git init                → creates local repo
+git remote add origin   → links to GitHub repo
+git add .               → stages files
+git commit -m "msg"     → commits locally
+git push -u origin main → uploads to GitHub
